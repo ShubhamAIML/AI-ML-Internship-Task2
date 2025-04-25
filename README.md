@@ -43,7 +43,7 @@ AI-ML-Internship-Task2/
 │   └── survival_by_fare_range.png   # Survival by fare range
 ├── titanic_eda.py                # Python script for EDA
 └── README.md                     # Project documentation
-└── task 2.pdf                     # Task 2 
+└── task 2.pdf                    # Task 2 
 ```
 
 ---
