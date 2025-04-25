@@ -42,7 +42,6 @@ AI-ML-Internship-Task2/
 │   ├── survival_by_family_size.png  # Survival by family size
 │   └── survival_by_fare_range.png   # Survival by fare range
 ├── titanic_eda.py                # Python script for EDA
-├── AI-ML-Internship-Task2.ipynb  # Colab notebook for EDA
 └── README.md                     # Project documentation  
 ```
 
