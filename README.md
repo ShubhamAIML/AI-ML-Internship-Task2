@@ -110,7 +110,7 @@ import seaborn as sns      # Enhanced visualizations
 ## **📌 How to Use**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Titanic-EDA-Task2.git
+   git clone https://github.com/yourusername/AI-ML-Internship-Task2.git
    ```  
 2. Run the script:  
    ```bash
