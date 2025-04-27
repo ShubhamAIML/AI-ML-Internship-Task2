@@ -1,9 +1,7 @@
 # **Titanic Dataset: Exploratory Data Analysis (EDA)**  
 **Task 2 | Elevale AI & ML Internship**  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)  ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-orange)  
-![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)  
-![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-orange)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)   ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)   ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-orange)  
 
 ---
 
