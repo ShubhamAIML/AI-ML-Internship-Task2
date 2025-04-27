@@ -1,7 +1,7 @@
 # **Titanic Dataset: Exploratory Data Analysis (EDA)**  
 **Task 2 | Elevale AI & ML Internship**  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)  ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-orange)  
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-green)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-orange)  
 
@@ -10,7 +10,7 @@
 ## **📋 Overview**  
 This repository presents an **in-depth Exploratory Data Analysis (EDA)** of the Titanic dataset for the **Elevale AI & ML Internship Task 2**. The goal is to uncover patterns, trends, and relationships in the data using descriptive statistics and visualizations. Tools used include **Pandas** for data manipulation, **Matplotlib** and **Seaborn** for plotting, and Python's built-in formatting for outputs. The analysis includes feature engineering to enhance insights and meets the task's objectives of data understanding and pattern recognition.  
 
-Run the analysis on Colab: [Colab Notebook](https://colab.research.google.com/drive/1HoMJCVGDj1-dG905Tkz-rVjA72TznYcp?usp=sharing). [Kaggle Notebook](https://www.kaggle.com/code/shubham1921/exploratory-data-analysis-on-titanic-dataset).
+Run the analysis on : [Colab Notebook](https://colab.research.google.com/drive/1HoMJCVGDj1-dG905Tkz-rVjA72TznYcp?usp=sharing) , [Kaggle Notebook](https://www.kaggle.com/code/shubham1921/exploratory-data-analysis-on-titanic-dataset)
 
 ---
 
